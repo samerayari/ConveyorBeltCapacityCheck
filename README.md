@@ -1,0 +1,4 @@
+- Programmet spørger brugeren om antal motorer og den samlede vægt af pakker.
+- Det beregner vægt pr. motor ved at dividere total vægt med antal motorer.
+- Hvis vægten pr. motor er ≤ 5,6 kg, kan transportbåndet bære pakkerne.
+- Programmet udskriver “Yes!” hvis det kan, ellers “No”.
